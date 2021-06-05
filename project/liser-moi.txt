@@ -1,0 +1,11 @@
+Projet COO 
+
+Antoine Blanco
+Mehdi Ziar
+
+Contenu : 
+-Code source/projet vs(directement à la racine)
+-capture d'écran du programme (dossier résultats)
+-documentation générer par doxygen(dossier documentation)
+-fichier de labyrinthe sous forme .txt
+
